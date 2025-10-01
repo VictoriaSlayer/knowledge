@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "b52119a1ff39458e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e921a6e71f00077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f589af3b9783b803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Продукт/Дизайн и поведение пользователей/Дизайн и поведение 6. Определение проблемы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дизайн и поведение 6. Определение проблемы"
+            }
+          },
+          {
+            "id": "5bac467615f68025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сеть/Серверы и все, что с ними связано/Разница между Application server и web server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разница между Application server и web server"
+            }
+          },
+          {
+            "id": "ec7e847039bbe8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системный и бизнес анализ/Закон Конвея по DeepSeek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Закон Конвея по DeepSeek"
+            }
+          },
+          {
+            "id": "12517f3f595125a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Управление проектом/Карта гипотез pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Карта гипотез pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5afe25f9554ddb8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2030da5d6bc26ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcd436742df643d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "508312775854f1c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "метрик",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29df12945fb41b32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 497.5
+  },
+  "right": {
+    "id": "1b7536aac76d84cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2598dcc26be466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e133393d84a9ae6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Системный и бизнес анализ/Бизнес требования.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Бизнес требования"
+            }
+          },
+          {
+            "id": "9eee37618b5095f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Базы данных/Различные SQL команды.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Различные SQL команды"
+            }
+          },
+          {
+            "id": "b2778a5220ee3228",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4073e0c7d2588123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Продукт/Дизайн и поведение пользователей/Дизайн и поведение 6. Определение проблемы.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Дизайн и поведение 6. Определение проблемы"
+            }
+          },
+          {
+            "id": "3ea241b75b3a485c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f589af3b9783b803",
+  "lastOpenFiles": [
+    "Системный и бизнес анализ/Закон Конвея по DeepSeek.md",
+    "Управление проектом/Карта гипотез pdf.pdf",
+    "Продукт/Дизайн и поведение пользователей/Дизайн и поведение 6. Определение проблемы.md",
+    "Продукт/Дизайн и поведение пользователей/Дизайн и поведение 6. Определение проблемы.sync-conflict-20250823-115443-ACFE4YT.md",
+    "Управление проектом/Карта гипотез.md",
+    "Управление проектом/Маккиавелли.md",
+    "Системный и бизнес анализ/Бизнес требования.md",
+    "API/Ответы на запросы.md",
+    "API/Перевод части логики с монолита на микросервис.md",
+    "API/Список ссылок по тестированию API которые не разобрал.md",
+    "API/Ссылки.md",
+    "API/HTTP методы.md",
+    "API/JSON Schema.md",
+    "API/SOAP.md",
+    "Dump/BI (4).jpg",
+    "Dump/Портрет.jpg",
+    "Dump/Портрет 1.jpg",
+    "Системный и бизнес анализ/Виггерс 6. Выбор пользователей для работы над проектом.md",
+    "Системный и бизнес анализ/Виггерс 7. Выявление требований.md",
+    "Данные/Аналитическая культура/АК1. Что значит на основе данных.md",
+    "Данные/Аналитическая культура/АК5. Анализ данных.md",
+    "Данные/Аналитическая культура/АК4. Типы аналитики.md",
+    "Данные/Аналитическая культура/АК3. Сбор данных.md",
+    "Данные/Аналитическая культура/АК2. Качество данных.md",
+    "Общие знания/Docker.md",
+    "Общие знания/Dump/Pasted image 20250930074308.png",
+    "Общие знания/Dump/Pasted image 20250930074241.png",
+    "Общие знания/Dump/Pasted image 20250930073953.png",
+    "Базы данных/Курс по БД от ВК/БД от ВК 2. Модификация и выборка данных..md",
+    "Базы данных/Курс по БД от ВК/Dump/Pasted image 20250928200738.png",
+    "Базы данных/Курс по БД от ВК/Dump/Pasted image 20250928200725.png",
+    "Базы данных/Курс по БД от ВК/Dump/Pasted image 20250928200714.png",
+    "Базы данных/SQL полное руководство/SQL полное рук 13. Обработка транзакций.md",
+    "Базы данных/SQL полное руководство/SQL полное рук 23. Сети и распределенные БД.md",
+    "Базы данных/SQL полное руководство/SQL полное рук 22. SQL и серверы приложений.md",
+    "Базы данных/SQL полное руководство/Dump/Pasted image 20250921195504.png",
+    "Базы данных/SQL полное руководство/Dump",
+    "Базы данных/SQL полное руководство",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Математика",
+    "Продукт/Дизайн и поведение пользователей/~syncthing~Дизайн и поведение 6. Определение проблемы.sync-conflict-20250823-115443-ACFE4YT.md.tmp",
+    "Продукт/Различное",
+    "Интеграция/Интеграция. Технологии.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Пример холста.canvas",
+    "Без названия 1.canvas"
+  ]
+}
