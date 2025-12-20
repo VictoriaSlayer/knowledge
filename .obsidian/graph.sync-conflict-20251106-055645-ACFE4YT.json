@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Аналитическая культура\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
@@ -16,15 +23,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1.02550551470588,
   "lineSizeMultiplier": 1.02550551470588,
   "collapse-forces": false,
   "centerStrength": 0.499336192810458,
   "repelStrength": 11.8821486928105,
   "linkStrength": 1,
   "linkDistance": 211,
-  "scale": 0.16629040505732853,
-  "close": false
+  "scale": 0.49369479327849497,
+  "close": true
 }
